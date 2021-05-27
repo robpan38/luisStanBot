@@ -1,0 +1,22 @@
+{
+  "name": "luisstanbot",
+  "version": "1.0.0",
+  "description": "annoying telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robpan38/luisStanBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robpan38/luisStanBot/issues"
+  },
+  "homepage": "https://github.com/robpan38/luisStanBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
